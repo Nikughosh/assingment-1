@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+
+}
+
+
+
+
+.banner {
+  background: url(think-out-box-concepts-with-lightbulb-box.jpg);
+  display: flex;
+  margin-bottom: 130px;
+}
+
+.title {
+  position: absolute;
+  width: 525px;
+  height: 228px;
+  left: 845px;
+  top: 216px;
+  font-weight: 700;
+  font-size: 65px;
+  line-height: 76px;
+  text-align: right;
+  color: #FFFFFF;
+}
+
+.description {
+  position: absolute;
+  width: 494px;
+  height: 78px;
+  left: 876px;
+  top: 468px;
+  text-align: right;
+
+  color: #FFFFFF;
+}
+
+.contact-button {
+  position: absolute;
+  width: 120px;
+  height: 50px;
+  font-weight: 600;
+  font-size: 10px;
+  left: 1210px;
+  top: 578px
+}
+
+/* info-section */
+.info-section {
+  display: flex;
+  position: absolute;
+  width: 1072px;
+  height: 723.3px;
+  left: 206px;
+  top: 939px;
+}
+
+.info-title {
+  color: #151414;
+  font-weight: 700;
+  font-size: 40px;
+
+  position: absolute;
+  width: 288px;
+  height: 94px;
+  left: 862px;
+  top: 250px;
+}
+
+.info-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+
+  position: absolute;
+  width: 416px;
+  height: 104px;
+  left: 862px;
+  top: 360px;
+}
+
+.info-list {
+  position: absolute;
+  width: 349px;
+  height: 162px;
+  left: 820px;
+  top: 440px;
+  list-style: none;
+  margin-top: 10px;
+}
+
+/* my plans section */
+.section-title {
+  position: absolute;
+  width: 179px;
+  height: 47px;
+  left: 765px;
+  top: 1792px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+}
+
+.skill-container {
+  display: flex;
+  gap: 200px;
+  margin-bottom: 20px;
+}
+
+section.div.skill {
+  display: flex;
+  position: absolute;
+  width: 1141px;
+  height: 202.96px;
+  left: 230px;
+  top: 1889px;
+
+}
